@@ -30,8 +30,4 @@ AI Text Summarizer: An AI-based application to summarize text, developed during 
 GitHub: Sumanth077s
 LinkedIn: https://www.linkedin.com/in/sumanth-u-16641a240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-   Badges !
-
-   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0535b82d-c787-4285-bb4d-dadc6ae79427" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 Feel free to reach out for any collaborations or just to say hi! 😊
