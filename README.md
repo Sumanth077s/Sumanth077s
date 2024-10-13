@@ -87,7 +87,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Sumanth077s/Sumanth077s/output/snake.svg" alt="Snake animation" />
-
-###
