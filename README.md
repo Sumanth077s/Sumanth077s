@@ -32,4 +32,4 @@ LinkedIn: https://www.linkedin.com/in/sumanth-u-16641a240?utm_source=share&utm_c
 
 Feel free to reach out for any collaborations or just to say hi! 😊
 
-https://www.credly.com/badges/0535b82d-c787-4285-bb4d-dadc6ae79427/public_url
+
