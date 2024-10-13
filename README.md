@@ -33,6 +33,6 @@ LinkedIn: https://www.linkedin.com/in/sumanth-u-16641a240?utm_source=share&utm_c
 Feel free to reach out for any collaborations or just to say hi! 😊
 
 
-https://images.credly.com/size/340x340/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png
+
 
 
