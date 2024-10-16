@@ -124,4 +124,3 @@
 <img align="left" height="200" src="https://images.credly.com/size/340x340/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png"  />
 
 ###
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc6b927c-ee79-4ab7-8b81-72e6414f468d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
