@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumanth U</h1>
 <h3 align="center">👨‍💻 Aspiring Full Stack Developer & DevOps Engineer I’m passionate about building scalable applications and mastering the practices of DevOps to streamline software delivery. My journey involves working on exciting projects, continuously learning, and contributing to open-source communities.</h3>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumanth077s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
