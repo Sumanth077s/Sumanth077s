@@ -1,5 +1,5 @@
-<h3 align="left">👩‍💻 About Me<br>👋 Hi, I'm Sumanth! React.js Developer | API Enthusiast | Lifelong Learner<br><br>🚀 About Me I'm a passionate developer with a strong focus on building responsive and dynamic web applications using React.js. I love solving problems and continuously improving my skills by taking on new challenges.<br><br>🌱 Currently honing my skills in React.js and API Development. 👯 I’m looking to collaborate on open-source projects, especially those involving React and APIs. 💬 Ask me about anything related to React.js, API Development, or JavaScript in general!<br><br>🏆 Certifications React.js - Scaler Git - Simplilearn Postman API Fundamentals Student Expert Postman Project-Based Learning - AI Text Summarizer App<br><br>🛠️ Projects Shopping Cart: A dynamic shopping cart built with React.js. Weather Application: A weather forecasting app using React.js. AI Text Summarizer: An AI-based application to summarize text, developed during the Postman Project-Based Learning course.</h3>
-
+<h1 align="center">Hi 👋, I'm Sumanth U</h1>
+<h3 align="center">👨‍💻 Aspiring Full Stack Developer & DevOps Engineer I’m passionate about building scalable applications and mastering the practices of DevOps to streamline software delivery. My journey involves working on exciting projects, continuously learning, and contributing to open-source communities.</h3>
 ###
 
 <div align="center">
