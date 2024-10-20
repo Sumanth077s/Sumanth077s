@@ -81,46 +81,11 @@
 
 ###
 
-<h3 align="left">Badges !!!</h3>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/sumanth077s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/sumanth077s" /></a></p><br><br>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanth077s&show_icons=true&locale=en&layout=compact" alt="sumanth077s" /></p>
 
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/3d10b5f5-387d-4cbf-98ec-a418231fb157/image.png"  />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanth077s&show_icons=true&locale=en" alt="sumanth077s" /></p>
 
-###
-
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png"  />
-
-###
-
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/aaf2d039-1b58-47f4-9d8c-dc94f686ca2f/image.png"  />
-
-###
-
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png"  />
-
-###
-
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png"  />
-
-###
-
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/e747147a-9300-4795-8b38-704a133bed88/Coursera_20Front_20end_20Development_20with_20React_20V2.png"  />
-
-###
-
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png"  />
-
-###
-
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png"  />
-
-###
-
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/eaaf4a45-b93e-41d1-91d3-d331c6210314/image.png"  />
-
-###
-
-<img align="left" height="200" src="https://images.credly.com/size/340x340/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png"  />
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanth077s&" alt="sumanth077s" /></p>
