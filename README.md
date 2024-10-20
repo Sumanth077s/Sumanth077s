@@ -13,6 +13,11 @@
   <img src="https://streak-stats.demolab.com?user=Sumanth077s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanth077s&label=Profile%20views&color=0e75b6&style=flat" alt="sumanth077s" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanth077s" alt="sumanth077s" /></a> </p>
+
 ###
 
 <div align="left">
